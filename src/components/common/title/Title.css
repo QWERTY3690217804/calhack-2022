@@ -1,0 +1,18 @@
+section {
+    position: absolute;
+    left:240px;
+    top:160px;
+}
+
+.logo-img {
+    width:130px;
+    margin-left:140px;
+   
+}
+
+.logo-name {
+    font-size:400%;
+    margin-left:90px;
+    display:inline;
+    color:#142F50F7;
+}

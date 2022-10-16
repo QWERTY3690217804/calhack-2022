@@ -1,0 +1,21 @@
+.navList {
+    float:right;
+    position:absolute;
+    left:1040px;
+    top:-130px;
+    width:500px;
+}
+
+.innerList {
+    list-style:none;
+    margin-left:95px;
+    width:500px;
+}
+
+.dash {
+    text-decoration:none;
+    font-size:160%; 
+    color: #142F50F7;
+    font-weight:650;    
+    width:500px;
+}

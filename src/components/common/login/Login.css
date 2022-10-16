@@ -1,0 +1,36 @@
+.login {
+    margin-top:10%;
+    margin-right:8%;
+    float:right;
+    background-color:rgba(255,255,255,0.95);
+    z-index:5;
+    padding:2% 3% 7% 3%;
+    border-radius:2%;
+}
+
+.login-title {
+    font-size:290%;
+    font-weight:660;
+    color:#142F50F7;
+}
+
+.login-text {
+    font-size:110%;
+    color:#142F50F7;
+    width:400px;
+}
+
+.login-button {
+    width:100%;
+    background-color:#142F50F7;
+    color:white;
+    border-radius:25px;
+    font-weight:bold;
+    padding: 15px;
+}
+
+.login-desc {
+    font-size:130%;
+    font-weight:600;
+    color:#142F50F7;
+}
