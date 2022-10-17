@@ -2,7 +2,7 @@
 
 Balance allows users to upload grocery shopping receipts to earn Solana based on how well their hauls meet nutritional recommendations.
 
-[Balance](balance.jpg?raw=true "Balance")
+![Balance](balance.jpg?raw=true "Balance")
 
 ## Description
 
