@@ -35,11 +35,11 @@ Adding recommendations and encouragement tools for healthy eating habits would a
 
 ## Authors
 
-Mehul Gandhi, Lema Ghailan, Sofia, Meng Lu
+Mehul Gandhi, Lema Ghailan, Sofia Nguyen, Meng Lu
 
 * [Mehul Gandhi](https://devpost.com/Mehul-Gandhi)
 * [Lema Ghailan](https://devpost.com/lema-ghailan)
-* [Sofia](https://devpost.com/qwerty3690217804)
+* [Sofia Nguyen](https://devpost.com/qwerty3690217804)
 * [Meng Lu](https://devpost.com/m_lu)
 
 ## License
