@@ -37,8 +37,10 @@ Adding recommendations and encouragement tools for healthy eating habits would a
 
 Mehul Gandhi, Lema Ghailan, Sofia, Meng Lu
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+[Mehul Gandhi](https://devpost.com/Mehul-Gandhi)
+[Lema Ghailan](https://twitter.com/dompizzie](https://devpost.com/lema-ghailan)
+[Sofia](https://devpost.com/qwerty3690217804)
+[Meng Lu](https://devpost.com/m_lu)
 
 ## License
 
