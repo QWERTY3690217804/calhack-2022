@@ -48,8 +48,8 @@ This project is licensed under the [MIT] License - see the LICENSE.md file for d
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+Devpost submission, code snippets, APIs.
+* [Devpost Submission](https://devpost.com/software/n-a-s4gwpj)
 * [Solana](https://docs.solana.com/getstarted/hello-world)
 * [Tesseract OCR API](https://www.npmjs.com/package/node-tesseract-ocr)
-* [Devpost Submission](https://devpost.com/software/n-a-s4gwpj)
 * [CSV Parser](https://www.npmjs.com/package/csv-parser)
